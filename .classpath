@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="designPatterns">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Collections"/>
+	<classpathentry kind="src" path="Algorithms"/>
+	<classpathentry kind="src" path="ds"/>
+	<classpathentry kind="src" path="jdbc"/>
+	<classpathentry kind="src" path="reflection"/>
+	<classpathentry kind="src" path="ClassLoader"/>
+	<classpathentry kind="src" path="Cloning"/>
+	<classpathentry kind="src" path="Serializable"/>
+	<classpathentry kind="src" path="ComparableComparator"/>
+	<classpathentry kind="src" path="cache"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="Nagarro">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Servlets"/>
+	<classpathentry kind="src" path="exceptionHanling"/>
+	<classpathentry kind="src" path="Exception"/>
+	<classpathentry kind="src" path="Generics"/>
+	<classpathentry kind="src" output="target/test-classes" path="AA_TEST">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Enums"/>
+	<classpathentry kind="src" path="Annotations"/>
+	<classpathentry kind="src" path="InnerClasses"/>
+	<classpathentry kind="src" path="TEST"/>
+	<classpathentry kind="src" path="polymorphism"/>
+	<classpathentry kind="src" path="STATEMENT"/>
+	<classpathentry kind="src" path="ubs"/>
+	<classpathentry kind="src" path="FileUpload"/>
+	<classpathentry kind="src" path="CustomImplementation"/>
+	<classpathentry kind="src" path="BitShiftOperator"/>
+	<classpathentry kind="src" path="jta"/>
+	<classpathentry kind="src" path="concurrency"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
