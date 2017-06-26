@@ -1,0 +1,62 @@
+- Scalable
+- Accessibility
+- Interoperability-
+- Resilience
+- Maintainable
+- Alerts - Monitor
+- Performance
+
+
+S/W Architecture
+1) Functional Req
+2) Non Functional Req
+3) Constraints
+
+
+Design Considerations
+
+1)Type of functional Reqmt
+2)7)I/O operations
+3)Scalable
+4)Accessible
+5)Interoperability
+6)Resilient
+7)Volume
+8)Dynamic
+9)DB + Third party Interactions
+10)Caching
+11)Heap Usage
+
+
+JAVA 7  - 
+	G1 - Garbage Collector
+	Phaser,
+	Try resource,
+	Multi Catch block,
+	String in Switch case,
+	For and Join
+	Underscore in numeric literals
+	Type inference - Diamond Operator
+
+NFRs
+
+    Performance – for example Response Time, Throughput, Utilization, Static Volumetric
+    Scalability
+    Capacity
+    Availability
+    Reliability
+    Recoverability
+    Maintainability
+    Serviceability
+    Security
+    Regulatory
+    Manageability
+    Environmental
+    Data Integrity
+    Usability
+    Interoperability
+
+
+
+
+

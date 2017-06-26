@@ -1,0 +1,3 @@
+
+
+SELECT * FROM orders ord1 WHERE (3) = (SELECT COUNT(DISTINCT(ord2.orderid))FROM orders ord2 WHERE ord2.orderId > ord1.orderid)
